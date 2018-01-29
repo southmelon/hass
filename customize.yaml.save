@@ -1,0 +1,42 @@
+#客厅的设备
+   binary_sensor.door_window_sensor_158d0001bf3b91:
+     friendly_name: 客厅南阳台门窗传感器
+     icon: mdi:security
+     hidden: false
+     homebridge_name: 客厅南阳台传感器
+     homebridge_hidden: false
+
+   binary_sensor.motion_sensor_158d0001c1d437:
+     friendly_name: 客厅人体红外传感器
+     icon: mdi:walk
+     hidden: false
+     homebridge_name: 客厅人体红外传感器
+     homebridge_hidden: false
+
+   switch.plug_158d0001b85133:
+     friendly_name: 客厅智能插座
+     icon: mdi:power-socket-us
+     hidden: false
+     homebridge_name:  客厅智能插座
+     homebridge_hidden: false
+
+   sensor.illumination_7811dcb38f6b:
+     friendly_name: 客厅光线传感器
+     icon: mdi:white-balance-sunny
+     hidden: false
+     homebridge_name:  客厅光线传感器
+     homebridge_hidden: false
+
+   light.gateway_light_7811dcb38f6b:
+     friendly_name: 客厅网关夜灯
+     icon: mdi:lightbulb
+     hidden: false
+     homebridge_name:  客厅网关夜灯
+     homebridge_hidden: false
+
+   light.gateway_light_7811dcb38f6b:
+     friendly_name: 客厅网关夜灯
+     icon: mdi:lightbulb          
+     hidden: false
+     homebridge_name:  客厅网关夜灯
+    

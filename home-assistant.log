@@ -1,0 +1,1 @@
+2018-01-27 09:53:10 ERROR (Thread-2) [homeassistant.util.yaml] YAML file /home/homeassistant/.homeassistant/configuration.yaml contains duplicate key "tts". Check lines 74 and 104.
